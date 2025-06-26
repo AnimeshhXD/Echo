@@ -17,6 +17,12 @@ chatbot/
 └── README.md
 
 ````
+## Screenshot 
+![image](https://github.com/user-attachments/assets/5cfd1218-a6c9-49b4-9452-55e9f44eebf3)
+![image](https://github.com/user-attachments/assets/bda8c573-1b79-4554-b0aa-81992a264f0b)
+![image](https://github.com/user-attachments/assets/83825a89-1c62-4e50-a6ae-e70f7501e495)
+
+
 
 ---
 
